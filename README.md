@@ -1,3 +1,5 @@
+# Moved: See https://codeberg.org/ced4rtree/plymouth-openrc
+
 # Plymouth for openrc
 
 ## This contains multiple openrc scripts to start plymouth and boot into the display manager of your choice
